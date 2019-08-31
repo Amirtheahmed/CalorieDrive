@@ -7,7 +7,7 @@ CalorieDrive is a simple JavaScript app to track your calorie intakes.
 * Vanilla JS - ES6
 
 ## Browser Compatibility
-* [JS ES6] (https://caniuse.com/#search=es6)
+* [JS ES6] (https://caniuse.com/#feat=es6)
 
 ** Note: ** This script uses modern Javascript ES6 features. 
 ## Getting Started
